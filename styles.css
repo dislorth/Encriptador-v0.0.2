@@ -106,10 +106,5 @@ footer {
   color: #ffffff;
 }
 
-@media screen and (max-with:480px){
-  .container{
-    width: auto;
-  }
-}
 
   
